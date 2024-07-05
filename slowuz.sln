@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{74ADE8A2-C7CA-4D49-B409-FF33817E8BD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedController", "src\SpeedController\SpeedController.csproj", "{A3B4B0FC-FBAD-4DC4-A457-9C1ED3D079F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3B4B0FC-FBAD-4DC4-A457-9C1ED3D079F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B4B0FC-FBAD-4DC4-A457-9C1ED3D079F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B4B0FC-FBAD-4DC4-A457-9C1ED3D079F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B4B0FC-FBAD-4DC4-A457-9C1ED3D079F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3B4B0FC-FBAD-4DC4-A457-9C1ED3D079F6} = {74ADE8A2-C7CA-4D49-B409-FF33817E8BD0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA2ED22D-7D58-44DE-8A83-6371C7D0DD6F}
+	EndGlobalSection
+EndGlobal
