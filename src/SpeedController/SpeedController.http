@@ -1,0 +1,6 @@
+@SpeedController_HostAddress = http://localhost:5273
+
+GET {{SpeedController_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
